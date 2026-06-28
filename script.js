@@ -6,7 +6,7 @@ let audioActual = null;
 const player = document.getElementById("audioPlayer");
 
 const tema = document.getElementById("tema");
-const interprete = document.getElementById("interprete");
+const interprete = document.getElementById("interprete").style.visibility = "visible";
 const genero = document.getElementById("genero");
 
 const respuesta = document.getElementById("respuesta");

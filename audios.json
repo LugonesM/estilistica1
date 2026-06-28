@@ -130,7 +130,7 @@
 {
   "url": "./audios/audio026.mp3",
   "title": "Lamento",
-  "playlist": "Huayno carnavalito"
+  "playlist": "Huayno"
 },
 {
   "url": "./audios/audio027.mp3",
@@ -536,6 +536,160 @@
   "url": "./audios/audio105.mp3",
   "title": "Por Seguir",
   "playlist": "Gato norteño"
+}
+
+,
+{
+  "url": "./audios/audio106.mp3",
+  "title": "Al Jardín de la República",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio107.mp3",
+  "title": "Balderrama",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio108.mp3",
+  "title": "Blanco y azul, volveré siempre a San Juan",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio109.mp3",
+  "title": "Criollita santiagueña",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio110.mp3",
+  "title": "De Simoca",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio111.mp3",
+  "title": "El cerrillano",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio112.mp3",
+  "title": "Grito Santiagueño",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio113.mp3",
+  "title": "La amorosa",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio114.mp3",
+  "title": "La Amorosa (instrumental) Atahualpa",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio115.mp3",
+  "title": "La catamarqueña",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio116.mp3",
+  "title": "La nostalgiosa",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio117.mp3",
+  "title": "La Raqueña",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio118.mp3",
+  "title": "La Tristecita",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio119.mp3",
+  "title": "Piedra y Camino (Atahualpa Yupanqui)",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio120.mp3",
+  "title": "Piedra y camino (Mercedes Sosa - versión 1)",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio121.mp3",
+  "title": "Piedra y camino (Mercedes Sosa - versión 2)",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio122.mp3",
+  "title": "Yerba buena",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio123.mp3",
+  "title": "Zamba de Balderrama cuchi",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio124.mp3",
+  "title": "Zamba de la candelaria",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio125.mp3",
+  "title": "Zamba de la Distancia",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio126.mp3",
+  "title": "Zamba De Los Humildes",
+  "playlist": "Zamba"
+}
+
+,
+{
+  "url": "./audios/audio127.mp3",
+  "title": "Zamba de Usted",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio128.mp3",
+  "title": "Zamba del ángel",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio129.mp3",
+  "title": "Zamba del carnaval",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio130.mp3",
+  "title": "Zamba Del Chaguanco",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio131.mp3",
+  "title": "Zamba del guitarrero",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio132.mp3",
+  "title": "Zamba del pañuelo",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio133.mp3",
+  "title": "Zamba del Quebrachal",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio134.mp3",
+  "title": "Zamba pa no Morir",
+  "playlist": "Zamba"
+},
+{
+  "url": "./audios/audio135.mp3",
+  "title": "Zamba tucumana",
+  "playlist": "Zamba"
 }
 
 
